@@ -1,0 +1,14 @@
+module default{
+
+type AIOutput {
+    required property topic -> str;
+    required property content -> str;
+    property thoughtful_score -> float64;
+    property helpful_score -> float64;
+    property intelligent_score -> float64;
+    property nice_score -> float64;
+    property kind_score -> float64;
+    property overall_score -> float64;
+    required property timestamp -> datetime;
+}
+}

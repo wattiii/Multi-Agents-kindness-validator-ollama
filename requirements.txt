@@ -1,0 +1,11 @@
+aiofiles
+aiohttp
+cachetools
+diagrams
+duckduckgo-search
+gel
+loguru
+ollama
+pytest
+requests
+streamlit
