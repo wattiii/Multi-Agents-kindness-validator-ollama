@@ -1,4 +1,6 @@
-#Clone the repo. 
+See the article on medium.com for the best instructions on this repo. https://medium.com/@watt.iii.2021/add-a-kindness-agent-to-your-ai-f7e8d3236071
+
+Clone the repo. 
 
 gh repo clone wattiii/Multi-Agents-kindness-validator-ollama
 
